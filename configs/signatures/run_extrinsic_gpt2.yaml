@@ -1,0 +1,3 @@
+gt_model_result: "src/probabilities/results/llama3"
+model_result: "src/probabilities/results/gpt2"
+save_path: "src/signatures/results/gpt2"

@@ -1,0 +1,2 @@
+summary_output_path: "src/probabilities/results/gpt2"
+save_path: "src/signatures/results/gpt2"

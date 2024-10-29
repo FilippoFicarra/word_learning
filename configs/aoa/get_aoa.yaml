@@ -1,0 +1,12 @@
+signatures:
+  mode: "convergence"
+  function: "sinusoidal"
+  thresholds: [0.01, 0.05, 0.07, 0.1, 0.15]
+  result_df: "src/signatures/results/lm_signatures.parquet"
+  save_path: "src/signatures/results/signatures_aoa.parquet"
+  data_handling_args:
+    log_x: True
+    scale_x: True
+    scale_y: True
+    fit: False
+    smooth: True

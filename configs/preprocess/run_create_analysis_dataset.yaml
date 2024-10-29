@@ -1,0 +1,8 @@
+num_processes: 8
+raw_dataset: "lm-critical-period/data/babylm_2024/en/raw/test.txt"
+positive_dataset_path: "src/preprocess/data/positive_dataset.json"
+negative_dataset_path: "src/preprocess/data/negative_dataset.json"
+sampling_negative_ratio: 0.1
+n: 100
+image_dir: "src/wordbank/images"
+stats_dir: "src/preprocess/data/stats"

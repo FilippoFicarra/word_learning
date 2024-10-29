@@ -1,0 +1,17 @@
+scripts:
+  Rscript:
+    get_aoa:
+      file: src/wordbank/get_child_aoa.R
+      args: 
+        --output_file: src/wordbank/data/all_prop_data_WS_hex.tsv
+  python3:
+    clean_wordbank:
+      file: src/wordbank/clean_worbank_word.py
+      args: 
+        --input_file: src/wordbank/data/all_prop_data_WS_hex.tsv
+        --output_file: src/wordbank/data/clean_wordbank_american.tsv
+    plot:
+      file: src/wordbank/plot_child_aoa.py
+      args: 
+        --input_dir: src/wordbank/data
+        --output_dir: src/wordbank/images

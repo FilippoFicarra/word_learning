@@ -1,0 +1,12 @@
+unified:
+  file_path: "lm-critical-period/data/unified_clean/en/raw/train.txt"
+  output_folder: "src/utils/data"
+  image_folder: "src/wordbank/images"
+babylm:
+  file_path: "lm-critical-period/data/babylm_2024/en/raw/train.txt"
+  output_folder: "src/utils/data"
+  image_folder: "src/wordbank/images"
+childes:
+  file_path: "lm-critical-period/data/childes/en/raw/train.txt"
+  output_folder: "src/utils/data"
+  image_folder: "src/wordbank/images"

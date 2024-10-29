@@ -1,0 +1,5 @@
+model_name: "gpt2"
+batch_size: 32
+dataset_path: "src/preprocess/data/"
+test_data: "lm-critical-period/data/babylm_2024/en/raw/test.txt"
+summary_output_path: "src/probabilities/results/gpt2"

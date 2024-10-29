@@ -1,0 +1,15 @@
+signature: 
+  result_folder: "src/signatures/results"
+  log_aoa: False
+  data_handling_args:
+    log_x: True
+    scale_x: True
+    scale_y: True
+    fit: False
+  plt_args:
+    dpi: 100
+    fig_size: [6, 3]
+
+summary:
+  result_folder: "src/signatures/results"
+  save_dir: "src/signatures/results/assets"
