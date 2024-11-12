@@ -2,6 +2,8 @@
 
 This is the code used to perform the analysis on word learning done in the [paper]().
 
+NOTE: the data used for training and the data used for evaluation are uploaded in here: [Dropbox](https://www.dropbox.com/scl/fo/22vabqaurrfchm9ey54vj/AAJiLlmpmlPZ9G5cL9yXQNU?dl=0&rlkey=xj8a9uajjns1p6wd28f2fadxm).
+
 # How to run
 Run setup.sh to setup your venv.
 
