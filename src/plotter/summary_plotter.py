@@ -27,9 +27,9 @@ class SummaryPlotter:
             "intrinsic_positive": r"$\widehat{\sigma}_{I+}$",
             "intrinsic_negative": r"$\widehat{\sigma}_{I-}$",
             "intrinsic_combined": r"$\widehat{\sigma}_{I\pm}$",
-            "extrinsic_positive": r"$\widehat{\sigma}_{\mathrm{E}+}$",
-            "extrinsic_negative": r"$\widehat{\sigma}_{\mathrm{E}-}$",
-            "extrinsic_combined": r"$\widehat{\sigma}_{\mathrm{E} \pm}$",
+            "extrinsic_positive": r"$\widehat{\sigma}_{\mathrm{R}+}$",
+            "extrinsic_negative": r"$\widehat{\sigma}_{\mathrm{R}-}$",
+            "extrinsic_combined": r"$\widehat{\sigma}_{\mathrm{R} \pm}$",
             "children": "Children",
         }
 

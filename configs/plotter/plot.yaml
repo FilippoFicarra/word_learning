@@ -10,6 +10,9 @@ signature:
     dpi: 100
     fig_size: [6, 3]
 
+children:
+  children_folder: "src/wordbank/data"
+
 summary:
   result_folder: "src/signatures/results"
   save_dir: "src/signatures/results/assets"
