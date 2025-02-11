@@ -154,4 +154,16 @@ Rscript src/regressions/children_regression.r "{aoa_path}" "{regression_results}
 ```
 This will save the results for the regression analysis on the extracted AoA.
 
+# Citation
 
+```tex
+@misc{ficarra2025distributionalperspectivewordlearning,
+      title={A Distributional Perspective on Word Learning in Neural Language Models}, 
+      author={Filippo Ficarra and Ryan Cotterell and Alex Warstadt},
+      year={2025},
+      eprint={2502.05892},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.05892}, 
+}
+```
